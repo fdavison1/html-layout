@@ -1,0 +1,52 @@
+header {
+    height: 20vh;
+    border: solid black;
+    margin: 10px;
+}
+
+main {
+   height: 20vh;
+   border: dotted black;
+   margin: 10px;
+}
+footer {
+    height: 50vh;
+    border: groove lightgray;
+    margin: 10px 25vh;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: .35rem;
+    color: rebeccapurple;
+    margin: 22vh auto;
+    font-weight: bold;
+}
+.yellowBox {
+    height: 15vh;
+    background-color: lightyellow;
+    margin: 20px;
+    box-shadow: 5px 5px 5px #444444;
+}
+.purple {
+    background-color: rebeccapurple;
+    height: 13vh;
+    width: 30px;
+    margin: 6vh 5px 5px 5px;
+    display: inline-block;
+}
+.green {
+    background-color: green;
+    height: 17vh;
+    width: 300px;
+    display: inline-block;
+    margin: 0 5px 5px 25px;
+}
+.circle {
+    background-color: lightskyblue;
+    height: 17vh;
+    width: 17vh;
+    display: inline-block;
+    margin: 0 5px 5px 25px;
+    border-radius: 50%;
+}
