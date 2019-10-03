@@ -1,0 +1,19 @@
+header {
+    background-color: #444444;
+    height: 20vh;
+}
+html {
+    background-color: #D8d8d8d8;
+}
+main {
+    background-color: #efefef;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+}
+footer {
+    background-color: black;
+    height: 20vh;
+    width: 75%;
+    margin: 0 auto;
+}
